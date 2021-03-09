@@ -19,6 +19,7 @@ public class 位运算 {
 
         //左移
         System.out.println("无符号右移");
+        System.out.println(Integer.toBinaryString(-2).length());
         System.out.println(Integer.toBinaryString(-10));
         System.out.println(Integer.toBinaryString(-10>>2));
         System.out.println(Integer.toBinaryString(10>>2));
